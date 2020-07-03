@@ -1,0 +1,11 @@
+ENTIDADES: 
+
+Traveler(Create Acc, login, logout, eddit data, delete Acc, request tracks); 
+
+Tracks(create acc, delete acc, login, logout,  create track, delete track, edit track; list tracks);
+
+Guides(contact whatsapp, e-mail, chat); 
+
+Hostels; 
+
+Restaurantes;
